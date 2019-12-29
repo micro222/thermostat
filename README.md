@@ -1,5 +1,4 @@
-# thermostat
-wifi enabled thermostat, everything open source
+# wifi enabled thermostat, everything open source
 
 ## Server
 * adafruit.io?
