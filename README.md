@@ -27,3 +27,26 @@ We don't want frozen pipes if the unit fails
 ## Schematic and PCB layout
 * Eagle PCB will be used, files will be available online
 * Bare boards will be available to anyone that wants one
+
+## Other attempts at an ESP-based thermostat
+* https://github.com/tomikaa87/esp-thermostat
+
+## Things to do
+* how do we set the time and date?
+
+## Firmware
+* regulate temperature
+* show current temperature and setpoint on display and webpage
+* store setpoints for the week
+* allow editing of setpoints from a webpage
+* indicate 
+* allow switching between manual and programmed setpoints
+
+
+## Front panel
+For now we can control the device through a web page, but eventualy a screen and some buttons would be nice to have
+What controls do we need?
+* current temperature and setpoint
+* burner status
+* on hold or programmed
+* time and date
