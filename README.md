@@ -1,9 +1,9 @@
 # thermostat
-wifi enabled thermostat
+wifi enabled thermostat, everything open source
 
 ## Server
-adafruit.io?
-provide its own server?
+* adafruit.io?
+* provide its own server?
 >You can have it as it's own server if you use port forwarding from your router and use the IP address of your provider.
 >Or
 >register a domain to your home (with a static IP, or you can run software in your router to report your IP to the name service)...
@@ -21,3 +21,7 @@ provide its own server?
 We don't want frozen pipes if the unit fails
 * watchdog timer?
 * regular thermostat in paralell?
+
+## Schematic and PCB layout
+* Eagle PCB will be used, files will be available online
+* Bare boards will be available to anyone that wants one
