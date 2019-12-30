@@ -16,7 +16,7 @@
 >I like the Lolin32 LITE... It has a small footprint, the same I/O as its larger siblings and is very cheap! - Adrian
 * MCP9809? - high precision temperature sensor, I2C
 * DS3231? - real time clock
-* Omron G6AK-247? - 2 coil latching relay, 3V
+* Omron G6AK-274P-ST-US-DC3? - 2 coil latching relay, 3V
 * ULN2003 or MDC3105DMT1G?                                
 * TFT screen?
 
