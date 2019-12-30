@@ -17,6 +17,7 @@
 * MCP9809? - high precision temperature sensor, I2C
 * DS3231? - real time clock
 * Omron G6AK-247? - 2 coil latching relay, 3V
+* ULN2003 or MDC3105DMT1G?                                
 * TFT screen?
 
 ## Failsafe
