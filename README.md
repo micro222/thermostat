@@ -32,6 +32,7 @@ We don't want frozen pipes if the unit fails
 ## Other attempts at an ESP-based thermostat
 * https://github.com/tomikaa87/esp-thermostat
 * https://www.letscontrolit.com/forum/viewtopic.php?t=6287
+* https://guide.openenergymonitor.org/integrations/mqtt-relay/
 
 ## Things to do
 * how do we set the time and date?
